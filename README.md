@@ -123,11 +123,11 @@ class KodidelaDineshNaidu:
 ## ⚡ Recent Highlights
 
 ```
-✅  Deployed OHLC aggregation engine — 1s to 1M timeframe support        May 2025
-✅  Migrated monolith → 10+ microservices with Redis Pub/Sub event bus    Apr 2025
-✅  Reduced system downtime by ~70% via fault isolation & error handling  Mar 2025
-✅  Containerised all services — Docker + K3s + automated CI/CD           Feb 2025
-✅  Built IB affiliate system — real-time commission tracking             Feb 2025
+✅  Deployed OHLC aggregation engine — 1s to 1M timeframe support         Feb 2026
+✅  Migrated monolith → 10+ microservices with Redis Pub/Sub event bus    Dec 2025
+✅  Reduced system downtime by ~70% via fault isolation & error handling  Oct 2025
+✅  Containerised all services — Docker + K3s + automated CI/CD           July 2025
+✅  Built IB affiliate system — real-time commission tracking             Apr 2025
 ```
 
 ---
