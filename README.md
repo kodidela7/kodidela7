@@ -125,43 +125,8 @@ class KodidelaDineshNaidu:
 ✅  Reduced system downtime by ~70% via fault isolation & error handling  Mar 2025
 ✅  Containerised all services — Docker + K3s + automated CI/CD           Feb 2025
 ✅  Built IB affiliate system — real-time commission tracking             Feb 2025
-```
 
----
 
-<!-- Contribution Graph -->
-## 🌱 Contribution Activity
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kodidela&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&area_color=3fb95020&hide_border=true)](https://github.com/kodidela)
-
-</div>
-
----
-
-<!-- Architecture callout -->
-## 🏗️ How I Think About Systems
-
-```
-                    ┌─────────────────────────────────────────┐
-                    │           Trading Platform               │
-                    │                                         │
-   Market Feed ──►  │  WebSocket Server  ──►  1M+ Clients    │
-                    │       │                                  │
-                    │    Redis Pub/Sub                         │
-                    │       │                                  │
-                    │  ┌────┴────────────────────┐            │
-                    │  │  10+ Microservices       │            │
-                    │  │  (DB-per-service)        │            │
-                    │  │  PostgreSQL × N          │            │
-                    │  └─────────────────────────┘            │
-                    │                                         │
-                    │  Docker + K3s + CI/CD + Nginx           │
-                    └─────────────────────────────────────────┘
-
-   Latency: <50ms    Uptime: ~70% improved    Scale: 1M+ users
-```
 
 ---
 
