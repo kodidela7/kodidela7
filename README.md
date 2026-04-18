@@ -65,6 +65,8 @@ class KodidelaDineshNaidu:
 
 </div>
 
+---
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
@@ -101,9 +103,33 @@ class KodidelaDineshNaidu:
 
 ---
 
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodidela&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodidela&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kodidela&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=3fb950&fire=f0883e&currStreakLabel=3fb950&dates=7d8590" alt="GitHub Streak"/>
+
+</div>
+
+---
 
 <!-- Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![LiveFx Hub](https://github-readme-stats.vercel.app/api/pin/?username=kodidela&repo=livefx-hub&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kodidela)
+&nbsp;
+[![Phishing Detector](https://github-readme-stats.vercel.app/api/pin/?username=kodidela&repo=phishing-detector&theme=github_dark&hide_border=true&bg_color=161b22&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/kodidela)
+
+</div>
 
 ### 📌 What I've built
 
@@ -125,7 +151,9 @@ class KodidelaDineshNaidu:
 ✅  Reduced system downtime by ~70% via fault isolation & error handling  Mar 2025
 ✅  Containerised all services — Docker + K3s + automated CI/CD           Feb 2025
 ✅  Built IB affiliate system — real-time commission tracking             Feb 2025
+```
 
+---
 
 
 ---
