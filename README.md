@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kodidela_Dinesh_Naidu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kodidela-dinesh-naidu)
 [![Email](https://img.shields.io/badge/Email-kodidela%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodidela@zohomail.in)
 [![Webkraft](https://img.shields.io/badge/Webkraft-Freelance_Studio-3fb950?style=for-the-badge&logo=vercel&logoColor=white)](https://kodidela-webkraft.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-orange?style=for-the-badge&logo=firefox&logoColor=white)](http://185.131.54.146:3000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://dinesh.kodidela-webkraft.com/)
 
 <br/>
 
@@ -146,7 +146,7 @@ class KodidelaDineshNaidu:
 | 📧 **Email** | [kodidela@zohomail.in](mailto:kodidela@zohomail.in) |
 | 🌐 **Freelance** | [kodidela-webkraft.com](https://kodidela-webkraft.com/) |
 | 📱 **WhatsApp** | [+91 70757 81960](https://wa.me/917075781960) |
-| 🖥️ **Portfolio** | [View Portfolio](http://185.131.54.146:3000) |
+| 🖥️ **Portfolio** | [View Portfolio](https://dinesh.kodidela-webkraft.com/) |
 
 </div>
 
